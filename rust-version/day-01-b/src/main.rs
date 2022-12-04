@@ -3,7 +3,6 @@ use std::io::{self, BufRead};
 use std::path::Path;
 
 fn main() {
-    println!("{}", std::env::current_dir().unwrap().display());
     // File hosts must exist in current path before this produces output
     if let Ok(lines) = read_lines("./input.txt") {
         // Consumes the iterator, returns an (Optional) String
