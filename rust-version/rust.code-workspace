@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "name": "Day 1, part A",
+      "path": "./day-01-a"
+      ""
+    },
+    {
+      "name": "Day 1, part B",
+      "path": "./day-01-b"
+    },
+    {
+      "name": "Day 2, part A",
+      "path": "./day-02-a"
+    },
+    {
+      "name": "Day 2, part B",
+      "path": "./day-02-b"
+    },
+    {
+      "name": "Day 3, part A",
+      "path": "./day-03-a"
+    },
+    {
+      "name": "Day 3, part B",
+      "path": "./day-03-b"
+    },
+    {
+      "name": "Day 4, part A",
+      "path": "./day-04-a"
+    },
+    {
+      "name": "Day 4, part B",
+      "path": "./day-04-b"
+    }
+  ]
+}
