@@ -1,2500 +1,300 @@
-C Z
-B Y
-C X
-B Z
-C Y
-B Y
-C Z
-C Z
-B Y
-B X
-C Y
-B Y
-B Z
-A Z
-A Y
-B X
-C Y
-C Z
-B Z
-A Y
-C Y
-C Z
-A Y
-C Z
-B X
-B Y
-B Y
-A Y
-C Z
-B Y
-B Y
-B Y
-C Z
-C Y
-B X
-C Y
-A Z
-C Y
-B X
-B Z
-C Z
-C Z
-B X
-A Y
-A Y
-C Z
-C Z
-C Z
-B Y
-C Y
-B Y
-C Z
-C Z
-A Z
-B Y
-C Y
-B X
-A Y
-C Y
-B Y
-C Z
-A Y
-B Y
-B Y
-B Y
-B Z
-C Y
-A X
-C Y
-B Y
-C Z
-A Z
-B X
-C Z
-C X
-A Y
-C Y
-B Z
-C Y
-C Z
-B X
-C Z
-C Y
-B Y
-B Y
-B Y
-B Y
-A Y
-C Z
-C Z
-B Y
-B Y
-C Z
-B Z
-B Y
-B Y
-B Y
-A Y
-B Z
-B Y
-C Y
-B X
-B Y
-B X
-C Z
-B X
-C Y
-B Z
-C Z
-C Z
-B Y
-B Z
-C Z
-B X
-C Y
-B Y
-C Y
-C Z
-C Y
-B Z
-C Z
-B X
-B Y
-C Y
-B X
-B Z
-B Y
-C Y
-B X
-C Y
-C Z
-B Y
-B Y
-B X
-C Y
-C Z
-C Z
-B X
-C Y
-C Z
-B Y
-B Z
-C Y
-C Y
-C Z
-C Y
-C Z
-B Y
-B Y
-C Z
-C Y
-C Y
-C Y
-B Y
-B Y
-A Y
-C Z
-B X
-B Y
-C Z
-C Z
-C Z
-B Y
-B Z
-C Y
-C X
-B Y
-C Z
-C Z
-B Y
-C Z
-C Z
-C Z
-B Z
-C Y
-B Y
-B X
-C Z
-B X
-B X
-B Y
-C Z
-B X
-C Z
-B Z
-C Z
-B X
-A Y
-B X
-A Y
-A Y
-A Z
-C Y
-B Z
-B Z
-B X
-C Y
-C Y
-B Y
-C Z
-B X
-C Z
-B Y
-B Z
-C Z
-C Z
-B Y
-C Y
-B Y
-C Y
-A Y
-C Z
-C Y
-C Y
-B Y
-B Z
-C Y
-B X
-B Z
-A Z
-C Y
-B X
-B Y
-B Y
-B Y
-B Z
-C Z
-A X
-B Z
-B X
-C Y
-B Z
-B Y
-A Y
-C Z
-B X
-C Z
-B Z
-C Z
-B Y
-C Z
-C Y
-B X
-C Z
-C Y
-B Y
-C Z
-C Y
-C Z
-C Y
-B Z
-A Y
-B Y
-B X
-C Y
-A X
-C Z
-A Y
-C Z
-B Y
-C Z
-B Y
-C Z
-B Y
-B Y
-B Y
-B Y
-A Y
-C Z
-B Y
-A Z
-B Z
-C Y
-B Y
-B Z
-A Y
-C Z
-B Y
-B Y
-C Z
-A Z
-B X
-A Y
-C Z
-B Z
-B Z
-B Y
-B X
-A Y
-B Y
-A X
-C X
-B Z
-B Y
-C Y
-C Z
-C Y
-C Z
-B Y
-B Z
-C Y
-A Z
-C Y
-C Y
-C Y
-A Z
-C Y
-C Z
-C Z
-C Z
-C X
-B Y
-B Y
-C Y
-C Z
-C Y
-B Y
-C Y
-C Z
-C Z
-B Z
-B Y
-B Y
-B Y
-C Z
-C Y
-B X
-C Y
-B Z
-B Y
-B Y
-B Y
-C Y
-C Y
-C Z
-C Z
-C Y
-B X
-C Y
-B Y
-B Z
-B Z
-B Z
-C Z
-B X
-C Y
-C X
-C Y
-B X
-C Z
-A Y
-A Y
-B X
-C Z
-A Z
-C Y
-C Z
-A Y
-C Z
-B Y
-B Y
-C Y
-B Y
-C Y
-B Y
-C Y
-B Y
-C Y
-C Y
-B Y
-C Z
-B Z
-C Y
-A Y
-C Y
-A Y
-B X
-C Y
-A Y
-B Z
-B Y
-C Y
-B Y
-C Y
-B Y
-C Y
-C Z
-C Y
-C Z
-B Y
-C Y
-C Z
-B Y
-B Z
-C Y
-A Y
-C Z
-C Z
-C Z
-B Z
-C Y
-A Y
-B Z
-A Y
-B Y
-C Y
-C Z
-C Y
-A Y
-B X
-A Z
-C Z
-C Y
-B X
-C Z
-A X
-C Z
-C Y
-C Z
-B Y
-C Y
-C Y
-B Y
-C Y
-C Z
-C Y
-C Y
-C Y
-A Y
-C Z
-C Y
-C Z
-C Z
-B X
-A Y
-B X
-B Y
-A Y
-B Y
-A Y
-C Z
-A Y
-C Y
-C Y
-B Y
-C Y
-B Z
-C Y
-C Z
-B Z
-B Y
-B X
-B Y
-B Y
-C Y
-C Y
-B Y
-B X
-C Z
-B X
-B X
-A Y
-B Z
-B X
-A Y
-C Y
-C Y
-B X
-B Z
-C Y
-B Y
-B X
-B X
-C Y
-C Z
-B Y
-B Y
-B Y
-A Y
-A Y
-C Z
-C Z
-C Y
-B X
-C Y
-C Y
-B Z
-B Z
-A X
-C Y
-C Y
-A Z
-A Y
-B X
-B Y
-C Y
-B Y
-C Z
-B Y
-C Y
-B Y
-C Z
-C X
-C Z
-A Z
-B X
-A Z
-C Z
-B Y
-C Y
-B Z
-C Y
-B X
-C Y
-C Z
-B Y
-A Y
-C Y
-C Y
-B Z
-B Y
-B X
-C Z
-B Y
-C Y
-C Y
-C Y
-A Z
-B Y
-B Y
-C Y
-B Y
-C Z
-B Y
-C Y
-B Y
-C Z
-B X
-C Y
-B Y
-B X
-C Y
-C Z
-C Y
-B X
-B Y
-C Y
-B Z
-B X
-C Y
-B X
-B Y
-B Z
-C Y
-B Y
-C Y
-B Y
-B Y
-C Y
-B Z
-B Y
-C Z
-C Z
-B X
-A X
-C Z
-B Z
-B Y
-B X
-C Z
-C Z
-B Z
-A Z
-B Y
-C Y
-C Z
-C Y
-C Y
-C Y
-C Z
-B Y
-B Y
-C Y
-C Z
-C Z
-C Y
-C Y
-C Z
-B Y
-C Y
-B Y
-B Y
-A Y
-C Y
-A Y
-C Z
-C Y
-C Z
-C X
-B X
-C Z
-A Y
-B X
-C Z
-C Z
-C Y
-B Z
-B Y
-A Y
-C Z
-B X
-B Y
-B Z
-B X
-C Y
-B Y
-C Z
-C Z
-C Z
-C Y
-A Y
-C Z
-C Z
-B Y
-B Y
-B Y
-C Y
-C Y
-C Z
-B X
-C Y
-C Y
-C Y
-B Y
-C X
-B Y
-B Y
-C Y
-A Z
-C Y
-C Z
-A Y
-C Y
-B Z
-C Y
-C Z
-A X
-B X
-C Z
-C Y
-B Y
-C Y
-C Y
-B Y
-C Z
-C X
-C Y
-C Y
-B X
-C Y
-B Y
-C Y
-C Z
-A Z
-B X
-B X
-C Z
-C Y
-B Y
-B Z
-B Y
-B Z
-A X
-B X
-B X
-B X
-C Y
-A X
-C Z
-C Z
-B Y
-B X
-B Y
-B Y
-C Z
-B Z
-C Y
-C Y
-B X
-B Z
-C X
-A X
-B Y
-C X
-C X
-B Y
-C Z
-C Z
-C Z
-B X
-B Z
-C Y
-B Y
-A Y
-C Z
-B Z
-A Z
-B X
-B X
-B X
-B Y
-B X
-B X
-B X
-B Y
-C Z
-C Y
-C Y
-C Y
-A Y
-C Z
-C Y
-C Z
-C Y
-B Y
-A X
-A Z
-A Z
-C Z
-B Z
-B Z
-B Y
-C Z
-B Y
-B X
-B Y
-B Z
-A Y
-B Y
-B Y
-B Z
-C Y
-B Y
-C Y
-B Y
-C Y
-B Z
-C Z
-B Z
-C Y
-B Z
-B Y
-B Y
-A Y
-C Z
-B Y
-B X
-B Y
-B X
-C Z
-C Y
-B Z
-C Z
-C Z
-A Z
-C Z
-B X
-C Z
-C Z
-C Z
-C Y
-B Y
-B X
-C Y
-C Y
-C Z
-C Z
-B X
-C Y
-C Z
-B Z
-A Y
-A Y
-B Y
-C Y
-B Z
-A X
-C X
-C Y
-A Y
-B Z
-B X
-C Z
-C Y
-B Y
-C Z
-C Y
-B Z
-C Z
-C Z
-C Y
-B X
-C Z
-C Y
-B Y
-C Y
-C Y
-C Z
-B X
-C Y
-C Z
-C Z
-C Y
-C Y
-B Y
-C Y
-B X
-C Z
-B Z
-B X
-A Z
-C Z
-B Z
-C Z
-C Y
-B X
-C Z
-A Z
-A Y
-A Y
-C Y
-B Y
-B X
-C Y
-C Z
-B X
-A Y
-B Y
-B X
-B X
-C Y
-B Y
-C Y
-C Z
-B Y
-B X
-C Y
-B Y
-B X
-A Y
-B Y
-B Y
-C Y
-A Y
-B Y
-A Z
-C Z
-A X
-C Z
-C X
-C Z
-C Z
-C Y
-B Z
-B Z
-A Z
-A Y
-B Y
-B Y
-C X
-C Z
-C Z
-B Z
-A X
-C Y
-C Z
-A Y
-A Y
-B X
-C Z
-B Z
-A X
-C Z
-C Y
-B X
-C Y
-C Y
-C Z
-C Z
-B X
-C Z
-A Y
-B Y
-B X
-B Y
-C Y
-B X
-C Y
-B Y
-A X
-C Z
-C Y
-C Z
-B Z
-C Y
-C Y
-C Z
-C Z
-A Y
-C Z
-B Y
-C Z
-C Y
-B Y
-C Y
-A Y
-C Y
-A Z
-C Y
-A Z
-C Z
-C Z
-B Y
-C Z
-C Y
-A Y
-C Y
-A Y
-C Z
-B Z
-B Y
-B Z
-C Z
-B Y
-A Z
-B Y
-C Z
-A Y
-B Y
-A Z
-B X
-B Z
-B X
-B Y
-B Y
-B Y
-C Y
-C Z
-B Y
-C X
-B Y
-A X
-B Y
-B Y
-C Z
-C Z
-A X
-C Z
-C Y
-C Z
-B Y
-B Y
-B X
-B X
-A X
-B X
-B Y
-B Y
-C Z
-B Z
-B Y
-B Y
-B Z
-B Y
-C Z
-C Z
-B X
-B Z
-A Z
-B Z
-C Z
-B Z
-C Y
-C Z
-C Z
-B X
-C Y
-C Y
-B X
-B Y
-C Y
-B Y
-C Z
-C Y
-B Y
-B X
-A Z
-C Z
-C Y
-C Y
-B Z
-B X
-A Z
-B Z
-C Z
-C Z
-B X
-B X
-C Z
-C Y
-B Z
-C Z
-C Z
-B X
-C Y
-C Y
-B Y
-C Y
-B Z
-C Z
-A Y
-B X
-C Y
-C Z
-B Y
-B X
-B X
-A Z
-B Y
-B Y
-C Z
-B X
-A Y
-A X
-C Y
-B Z
-B X
-A Y
-B Y
-B X
-C Z
-C Z
-C Z
-C Z
-C Z
-A Y
-C Y
-C Z
-C Y
-C Z
-C Y
-A Y
-B Y
-C Y
-C Y
-B Y
-C Z
-A X
-B Y
-C Y
-C Z
-B Y
-C Z
-B Y
-A Z
-B X
-B X
-A Y
-B X
-C Y
-B Z
-B Y
-B Z
-C Y
-A Y
-C Z
-A Y
-A Y
-C Z
-C Z
-C Y
-B X
-A Y
-C X
-C Y
-C X
-C Z
-B Y
-B Y
-C Z
-B X
-B Y
-C Z
-B X
-C Z
-C Z
-B Y
-A Y
-B X
-B Y
-C Z
-B Y
-C Z
-A Y
-B X
-C Z
-C Y
-A Y
-C Z
-A Y
-C Y
-A Y
-C Z
-B X
-B Y
-B Z
-A Y
-C Z
-C Y
-C Z
-B Z
-C Z
-C Y
-C Y
-B Z
-C Z
-C Y
-B X
-B Y
-A Y
-A Y
-B X
-C Y
-C Y
-C Z
-B Y
-B Z
-B X
-B Y
-B Y
-B Z
-B Y
-B Y
-B Z
-B Y
-B X
-C Y
-C Y
-C Z
-B X
-C Z
-C Y
-A Y
-C Y
-C Z
-B Y
-A Z
-C Y
-C Z
-B X
-A Y
-C Y
-C Y
-C Y
-A Y
-A Y
-C Y
-B X
-C Z
-A Y
-C X
-B Y
-C Y
-B Y
-C Y
-B Z
-C Y
-A Z
-B Y
-A Y
-A Y
-B X
-B Y
-B Y
-B Y
-C Y
-B Z
-C Z
-B X
-B X
-B X
-C Y
-B X
-C Z
-B Z
-C Z
-B Y
-C Y
-C Z
-C Y
-C Y
-B Y
-B Y
-B Z
-B Y
-C Z
-B Y
-B X
-C Z
-A Z
-C Y
-C Y
-C Z
-B Y
-A Y
-C Z
-C Y
-B Z
-C Z
-B Y
-B Z
-B X
-C Y
-B X
-C Z
-B Z
-C Z
-C Z
-B Y
-B X
-B X
-C X
-C Z
-C Z
-A Y
-C Z
-C Y
-C Y
-C Y
-C Z
-C Y
-B X
-B X
-B X
-C X
-C Y
-B X
-B X
-B X
-B Z
-A Z
-B X
-C Y
-B Y
-C Z
-A Z
-B Y
-B X
-B Z
-C Y
-B Z
-B Y
-A Z
-C Z
-B Y
-C Y
-B Y
-B X
-C Y
-A Z
-C Z
-C Y
-B Y
-B X
-C Y
-C Z
-C Y
-C Z
-B Y
-A Z
-B Y
-B X
-C Y
-C Y
-A X
-B X
-C Y
-C Z
-A Z
-C Z
-C Y
-C Z
-B Y
-B Y
-C Z
-A Y
-C Z
-B X
-B X
-B Y
-B Y
-B X
-B X
-B X
-B Z
-B X
-A X
-A Y
-C Z
-C Y
-A Y
-C Y
-C Z
-C Y
-B Y
-C Z
-A Y
-B X
-B X
-C Y
-C Y
-B Z
-B Z
-B Z
-B Y
-B Y
-B Y
-B Y
-C Y
-C Z
-B Z
-A Y
-B Z
-C Y
-C Y
-C Z
-B X
-A Y
-C Y
-B X
-B Z
-A Y
-C Y
-C Z
-A X
-C Z
-B X
-B X
-B Z
-A Y
-C Z
-B Z
-C Z
-A Y
-A Y
-B Y
-B Y
-A Y
-C Y
-A Y
-B X
-C Y
-C Z
-B Y
-B Z
-C Z
-C Y
-B Y
-C Y
-C Z
-B Y
-C Z
-C Y
-A Y
-C Y
-C Y
-B X
-C Y
-B Y
-B Y
-B X
-C Z
-B Y
-C Y
-C Y
-B Y
-B Y
-B Z
-C Y
-C Z
-A X
-C Z
-C Y
-C Y
-C Y
-B Z
-C Y
-C Y
-C Y
-A Y
-C Y
-A Y
-C Y
-C Y
-C Y
-C Y
-C Y
-C Y
-A Z
-B Z
-B Y
-C Z
-B Y
-C Z
-B Y
-C Z
-B Y
-C Z
-C Z
-C Z
-C Y
-C Z
-B Y
-B Y
-C Y
-C Z
-B Z
-C Y
-A Y
-C Y
-C Z
-C Y
-C Y
-A Z
-B Y
-C Y
-B X
-B Y
-C Y
-C Z
-B Y
-C Y
-B X
-B X
-B Y
-C Y
-B Z
-B Y
-A Y
-B Y
-B Y
-B X
-C Z
-B Z
-B X
-C Z
-A Z
-B Z
-C Y
-C Z
-C Y
-B X
-C Y
-C X
-B Z
-C Y
-C Y
-B Y
-C X
-B Y
-C Z
-A Z
-C X
-A Y
-B Y
-B Y
-C Z
-C Z
-B Y
-B Y
-B Z
-C Z
-C Y
-C Z
-B X
-A Z
-C Y
-C Y
-B Z
-B X
-B Y
-B X
-A Z
-C Y
-B Y
-C Z
-A Y
-B Z
-C Y
-B X
-B X
-B Y
-B Y
-B Z
-B X
-C Z
-C Y
-B X
-B X
-B X
-B Y
-B X
-B X
-B Y
-B Y
-B Y
-C Y
-A Z
-C Z
-C Y
-B Y
-B Y
-B Z
-C Z
-C Y
-C X
-B Z
-A X
-C Y
-B X
-B Y
-C Y
-A X
-C Y
-C Y
-B Y
-B Y
-B Y
-A Z
-C Y
-C Y
-A X
-C Y
-A Z
-C Z
-B X
-A Y
-C Z
-B Z
-B Y
-B Y
-C Y
-B Y
-C Z
-B X
-C Z
-B X
-A Y
-C Z
-C Y
-B X
-B Z
-B Y
-B X
-C Y
-C Z
-C Z
-A Z
-B Z
-B Z
-C Z
-C Y
-C Z
-C Y
-B Z
-B Y
-B Y
-C Y
-C Z
-C Y
-C Y
-C Z
-A Y
-B Y
-A Z
-B Z
-C Z
-B X
-A Y
-B Y
-C Y
-C Z
-A Y
-C Y
-B Y
-B X
-C Y
-B Y
-C Y
-A Y
-C Y
-B Y
-B Z
-C Z
-B X
-B X
-C Z
-C Y
-C Z
-B Y
-C Y
-B Y
-B Y
-C Z
-C Y
-A Z
-B Z
-B X
-C Z
-C X
-C Z
-B X
-C Z
-C Y
-B X
-B Y
-B Y
-C Z
-C Z
-C Z
-B Y
-B Y
-A X
-B X
-C Z
-C Y
-C Z
-B Y
-C Y
-B Y
-C Y
-C Z
-C Z
-C Y
-C Y
-B X
-B Y
-B Y
-C Y
-B Y
-A Y
-B Y
-B Z
-C Z
-C Z
-A Z
-C Z
-B Z
-B Y
-C Z
-B Y
-B X
-B Y
-A Y
-A Y
-B Y
-C Y
-B Z
-B Y
-B Y
-B Y
-B X
-B X
-B X
-B Z
-B Z
-C Z
-A X
-C Z
-B Y
-C Z
-A Y
-C Z
-C Y
-A Y
-B Z
-B Y
-C Z
-B Y
-B X
-B Z
-C Y
-C Z
-C Z
-C Y
-B X
-B X
-C Y
-C Y
-A Y
-C Y
-B Y
-C Y
-C Y
-C Y
-B X
-C Z
-B Y
-C Z
-B Y
-B Y
-A Y
-B Y
-C X
-B Y
-C Y
-B Y
-C Z
-C Y
-B X
-B Y
-C Y
-B Y
-B Z
-B X
-C Z
-A X
-C Y
-C Y
-B X
-B Z
-B X
-C Y
-C Y
-A Y
-B Y
-C Y
-C Z
-B Y
-B Y
-B Z
-A Y
-B Z
-B X
-B Z
-C Y
-B Y
-C Y
-C Y
-B X
-B Y
-A Y
-C Y
-C Z
-C Y
-B X
-B X
-C Y
-B Y
-A Z
-C X
-C Z
-B Y
-C Z
-C Y
-C Z
-C Y
-A Z
-B Y
-C Y
-B Z
-B Y
-B X
-B Y
-B X
-C Z
-C Y
-B Y
-C Y
-C Z
-C Z
-B Y
-B X
-C Y
-C Y
-B Y
-B X
-C Z
-B X
-C Z
-C Y
-B Y
-C Y
-C Z
-C Y
-B Y
-C Z
-A Z
-A Y
-C Y
-A Y
-C Y
-B Y
-B Y
-B Y
-C Y
-C Z
-C Y
-C Y
-B X
-B X
-C Y
-B X
-C Y
-A Y
-B Y
-B Y
-C Z
-C Z
-B X
-C Z
-C Z
-B Y
-C Z
-C Z
-B Z
-B Z
-C Y
-A Z
-C Z
-C Z
-B X
-C Z
-B Z
-B Y
-A Y
-B X
-B Z
-A Y
-B Y
-B Y
-B X
-B Y
-C Y
-A Z
-B Y
-C Y
-A Y
-C Y
-B Y
-C Y
-C Y
-A Y
-C Y
-B Y
-B Y
-B Z
-C Z
-C Z
-C Y
-B Y
-C Y
-B Z
-B X
-C Y
-C Y
-B Y
-B Z
-B Y
-A Y
-A Y
-A Z
-C Y
-B Y
-B Y
-C Z
-C Z
-C Y
-C Z
-C Y
-B X
-C Z
-C Y
-C Y
-A Y
-B Z
-C Z
-A Y
-B Z
-B Y
-B Y
-B Y
-B Y
-C Y
-C Y
-A Y
-C Z
-C Z
-A Z
-B Y
-B X
-B Z
-A Z
-C Z
-B X
-B Y
-A X
-C Y
-B Z
-A Y
-C Z
-C Y
-A Y
-B X
-C Y
-B X
-C Z
-B X
-B Y
-B X
-A Z
-B Y
-C Z
-C Y
-B Y
-A Y
-B X
-C Y
-B Z
-B X
-A Z
-A Y
-C Y
-C Z
-C Y
-B X
-C Y
-C Z
-B Y
-A Y
-C Y
-C Z
-C X
-B Y
-C Y
-B X
-B Z
-B Y
-C Z
-C Z
-C Y
-B X
-C Y
-B Z
-C Z
-C Y
-C Y
-C Y
-C Z
-C Y
-B Y
-C Y
-A Y
-C Y
-B X
-B Y
-A X
-B Y
-B Y
-B Y
-A Y
-B X
-B Z
-B Z
-C Z
-A Z
-C X
-B Z
-B Y
-C Y
-C Z
-B Z
-B Y
-B X
-C Y
-C X
-C Y
-C Z
-A X
-B X
-B Y
-B Y
-C Z
-B X
-B Z
-B X
-B X
-B Y
-C Y
-B Y
-B Z
-C Y
-C Y
-B Z
-B Y
-C Y
-C Y
-C Z
-C Z
-C Z
-B Y
-B Z
-C Y
-A Z
-C X
-B Y
-C Y
-C Y
-B Y
-C X
-C Y
-B Y
-C Y
-B Y
-B Y
-C Y
-C Z
-C Z
-C Z
-C Z
-B X
-C Z
-C Z
-B Y
-C Y
-A Z
-B X
-C Z
-B Z
-C Y
-C Y
-B Y
-B Y
-B Z
-C Y
-B Z
-C Z
-B Y
-C Z
-C Z
-B X
-B Z
-C Y
-C Y
-C Z
-B X
-C Z
-B X
-C Y
-C Y
-B X
-C Z
-C Z
-B Y
-C Z
-B Y
-B Y
-C Y
-C Y
-B Y
-C Y
-B Y
-A Z
-B Y
-B Y
-B Z
-C Y
-B Z
-B Y
-C Y
-B X
-B Z
-B Z
-C Y
-C Z
-C Z
-B Z
-C Y
-B Y
-C Z
-B X
-B X
-C Z
-B X
-C Y
-B Y
-C Y
-C Z
-C Z
-C Y
-C Z
-B Z
-C Y
-C Z
-C X
-B Z
-B Y
-A Z
-C Z
-A Y
-C Z
-B Z
-B X
-C Y
-B X
-C Y
-C Z
-C Z
-B Y
-B Y
-B X
-C Y
-C Z
-B X
-C Y
-C X
-C Y
-C Y
-C Z
-C Z
-B X
-C Z
-B Y
-C Y
-B Y
-B Y
-B Y
-B Z
-C Z
-A Y
-B X
-A X
-A Z
-C Z
-A Z
-B Z
-C X
-B Z
-B X
-B Y
-B X
-C Y
-C Z
-C Y
-B X
-B Y
-B X
-B Y
-A Y
-C Z
-B Y
-C X
-B Y
-B Y
-A Z
-B Y
-C Z
-C Z
-A Z
-C Y
-B Z
-C Y
-B Y
-A Y
-A Z
-B Y
-B Z
-B X
-B Y
-B Y
-C Y
-C Z
-A Y
-C Z
-A Y
-C Z
-C Y
-C Y
-B Y
-B Z
-C Y
-C Z
-B Y
-C Y
-C Y
-B X
-B Y
-C Z
-C Z
-C Y
-B Z
-B Y
-C Z
-B X
-C Z
-B Z
-C Y
-C Y
-C Y
-C Z
-B Y
-C Y
-C Y
-B Y
-C X
-C Z
-B Y
-C Z
-A Y
-C Y
-C Y
-C Z
-C Y
-C Z
-B Z
-B Y
-C Z
-C Z
-C Y
-B X
-B Y
-C Z
-B Y
-C Z
-C Z
-B Y
-C Y
-B X
-B Y
-A Y
-B X
-C Z
-B Y
-C Z
-C Y
-C Z
-B X
-B Y
-C Y
-C Z
-C Y
-B Y
-B Z
-B X
-B Y
-C Z
-C Z
-C Z
-B Z
-C Y
-C Z
-B Z
-C Z
-A Y
-C Z
-B X
-B Z
-C Y
-C Z
-C Y
-B Z
-B Y
-C Y
-B Z
-A Y
-B X
-C Y
-C Y
-B Y
-B Y
-C Y
-C X
-B Z
-B X
-C X
-C Y
-B Z
-C Z
-A Y
-B Z
-B Z
-B Z
-B X
-B Y
-B X
-C Z
-C Z
-A Z
-B Z
-C Z
-C Z
-B X
-A Y
-C Y
-B Y
-B Y
-B Y
-B Y
-B Y
-C Z
-C Y
-C X
-C Y
-B Y
-B Y
-C Y
-C Z
-B Y
-A X
-A Y
-B X
-A X
-C Y
-C Z
-C Z
-B Y
-B Z
-A Y
-A Y
-C Y
-B Z
-C Z
-C Y
-B Y
-C Y
-B X
-B X
-B X
-C Z
-B Y
-C Y
-B Z
-C Z
-A X
-A Y
-C Y
-B Y
-B Y
-A Z
-B X
-C Z
-C Z
-B X
-C Z
-C Z
-C Z
-C Y
-C Z
-B X
-B X
-C Y
-B Z
-A Y
-C Z
-B Y
-C Z
-C Y
-A Y
-C Z
-A Z
-C Z
-B Z
-A Y
-A Y
-C Z
-B Y
-C Y
-C Z
-C Z
-B Y
-C Z
-C Z
-C Z
-B Z
-C Y
-C Y
-B Y
-C Y
-C Z
-A X
-C Z
-C Z
-C Y
-C Z
-B Y
-C Y
-B Y
-A Y
-C Y
-A Y
-B Y
-B Y
-C Z
-C Z
-C Z
-B X
-B Y
-B Y
-C Y
-C Z
-C Y
-B X
-B Y
-C Y
-C Z
-C Z
-C Z
-A Y
-C Y
-C Z
-B X
-C Y
-C Z
-A Y
-B Y
-C Y
-C Y
-A X
-C Z
-B Z
-B X
-C Z
-C Y
-B Y
-B Y
-C Y
-A Y
-B Y
-B Y
-C Y
-B X
-C Z
-C Z
-C Y
-C Y
-B Y
-C Z
-C Y
-C Z
-C Z
-C Z
-B Y
-C Z
-B Y
-B Y
-B Y
-B X
-A Y
-C Y
-C Y
-B X
-B X
-C Z
-B X
-C Z
-B X
-B Y
-C Z
-B X
-B Y
-C Z
-B X
-B Y
-C Y
-B Y
-B Y
-C X
-B Y
-B Y
-B X
-C Y
-C Y
-A Z
-B Y
-C Y
-B Z
-B X
-B X
-A Y
-A Y
-B Z
-B X
-B X
-C Y
-C Y
-C Y
-B Y
-C Y
-B Y
-A Y
+FqdWDFppHWhmwwzdjvjTRTznjdMv
+ZBJrDVfQcfSRMLjZnjjM
+cBffPfbrbQcgQJggfVQJBPbCwlPtWFDWHFHhpmmGlGmlqmDG
+PNbMLgmPgRDgRtMPDdmdbmdmQrTBVCZnVnpCnNHHVZBNVZHc
+ljvvqhlvshhnrcpBZqpTcr
+zGhWzFTJvsFttddWbMRdmP
+hhGdDhfdDhmdnHwtzzRtdzbzQQQg
+WTTZJLsvLRJCcWJWScWWLtzjwBzBttbBzSwVQjQBtt
+vLJcLLTRsvsTZPqHGhFHGhhPhfqD
+dJszLvzvCZZsJmszCrrdFmpppMpDMQPMgmDcDgSS
+nRjRbnnjlNhblnjtVtQlWttMFPfMfPgDMpBgSBPgBS
+GWVQTVTnTNhjblQNRsdJLLdTCdzdZLrdrJ
+RnLJBfmJfmNBHlQvvbdQ
+grhgrtqgjJhhggNHqvwWqvbNlbHw
+GVTTsFFjJjVVFVGCFTJDDjhFcZmRMZfnZcncSpMSGcRPZpLp
+bwSNRNSRzSWnPnJRldMBMQmMlsCcPPCP
+FGpDqTTVFFprpjLVQMMGtMclcmHGtBdc
+TjhhgTLpVZhpLDZqrTqZVpBSwJwzNnWNWJvzzNSggwwN
+PHTMsmwrJMwLJvJddvdHwvcWnnWfccqGnhhfGcDqsnGc
+tZVlzQZblBgcSqqRhRmzqf
+CmlgmZlQtFtZNlVZdHLMrMvvCrrvvTTC
+PrDGBBddprmzddrSqccRgSTpqbsMRR
+hvLtfFNvvZNfGGfRgbqsRNlTSSgsbM
+QQQjZHHQjvththFffCHPPzmGrmDzDWrWBw
+GrjGrpjjCsnwhsGGPwlPTPLPVttPqLVl
+HzSHHhczRlLTHqqq
+DbhvFSSzQcZbcFbcQjrJrMJmmZnGJmJnjn
+mvTDsJLwzlWNDDnZngZNdd
+BVtPqFMqtvQFqPqjFBMVtRZGNGhfNcfQdpfgnQgNcNgp
+HBHtPbHCLCzsLJvT
+nVHVFfggbQVmFFfhLpBpBTrfLBCB
+cjjRwJdqtwwwNNjcwRMwnLNTpNsGCnLsLGhBhpNn
+tJqStcRMMMjPwlnvzgQWzmHzlmQl
+nNSRcDHRmHhhDZZZdBDfWJdfrJ
+LGrGVtjCPCbbQQQQLvQpbVQZzsqsBMdBqMvZMMJZqJvdBW
+GCPLlLPPPbTpbCbpLPpVlmrmmrHhHcHnHrHHgTFFnm
+rQbnBrDTQcdpHttt
+qNsNpfjLpNLRNqLMtdVsddcmVzdzVh
+WJfLCfvpWpNLbwwwBwbZFvlZ
+ZslGPhBWBJbNjmbTmSWN
+qtDCZcfZtDjbjCQvmmSj
+ttpRzqtqRLDzpRtDdtPlhhZZGBHGPsGZPhwd
+WjtcNnMtztGFrsNjcgRHvdwHhhjRwlhwlg
+pPSpPBPVqJqBCCPvZdHlVGddwdhvgH
+qpDBpBqPTDLqGLmpTPqbDmWMNrFrrFQnFMNnMNQtMm
+dNwfsjFLQLFNBhTCTPPTBJhhTP
+VmVMgqgRVHtztmgqgzgqRzgMPWCRWTpPCCPWPThDdZPCRZJp
+VMqtMgGHmgVMvmqMMtGMSmbslnQFcsndfjNNsnfscnbddF
+qbWcqrFNCJGSChvLGv
+MnslRSpSVsGgGhDDwLvl
+RjMtfnpmmmjSWSbjrNPN
+rsCsqTVgfCnQFdCznQ
+ZRsBvMvmZMGQQmFnDmQzzQ
+MlGLlBjRGjjWWGRGMlNrLLrssTPNfLcTgrVr
+vpSBBcJnWnSmcqmcChdcgf
+NRNPFDwwDbThqTJffZQHhd
+DzPDNVNbLwPzMLRbNMDjBlvpWjrvrVJjjSsBjr
+dndGpnWdVnBPFFHTBgGH
+qCcCmjqNNJDtcJQjqJqMCQJcFTBRZRwBZBHDPRHBHZDbgBBR
+szJcCtNQqjqCNjjNhdgWfLLdhVWsSVnr
+NjJLgSLGGCLWvqNqNBvwFb
+htmVmtHnlZmDVhtmhblmDMHddBRvwwZQQqWPFvFwdvRWdR
+HnlnHfDsbSTbJzsz
+JvZfsPsPhRfZZnCdtnmjHVRLCH
+TzcczTtgqpgGSTlHHVHCGjCdHdnQQQ
+wDBDSDlWzwwzDqqMtrMrfsfbNvJNJB
+ThfQTdQzQbgdhdNbJFJSlbBLlmqqHBSHCRHsHm
+rWBWWPcvpGGwjPPpvpPGplRSnLLnCrLRsRlLsLmLmR
+cGWPPMtpZDwpMpJQBQQQDBBVNfdQ
+WcWDRLSzFrRFFccPmnssMrGtmMnnGm
+jvvgCCTvNqTtJqsnqwPBmspZMB
+gbVgbvlChJVbCdbtTgjdLWSHWcHSDcQzFzRzDF
+zTrHgrFWRrWvMpPNBVZZHVfN
+hdnlltGLtGSQPVLSNBQN
+CqGGtGwlhlGdtGmbtjtmmvDRFvVFTTRDRbRgFJRbDr
+DTFpQFrZDFBDFrTNFjSWJsWlWjsRJcslsp
+zzPqvdqNzvqzfzMfzqmCzzfJsclWjSSRWglgjclWSmcjlJ
+hfPGwhhvMGCVCdddhQQZQnNrTDQnFrtn
+DDMFjwVTgVmMWgVpdqtlJnpvHHnslw
+fFfZzLSfzBfZBZtqJJHsnSsldlld
+GLcNhRGLZBhmDWTjDTWF
+FbVcQRVRBFfNFfccVfZcWddnGrrHncWtdHsZ
+hwGwjgTSGrssZHHTdn
+LvPvCJgJLwjlSJmSPLvvgGfFBpBVfLLMBQMRRbzMVb
+rfMCJPBMMCrSCSBGZZqRlRLzqhqh
+LDvdNmbgHjHgnmnvnHjgDjqlZhZzszhqzWsRWRRNcRNZ
+dmbvHDdnjDjVmjTmHjJVrfprPCCVtLSMrSpJ
+fdfTBfNVZffMmdfdhGhcJLJrvnlJvrBJ
+FFWFWTzWSWtFgPHgRPWTzggpJcvvSCGSGJnrvhhrrJhlGlGn
+pztFjzRTqWzgHqHWtPtPFgmsNfqbDdwDNVwbmfwbdNsb
+zCHvDWwvCwgpNRCWWHttCwvNPVTqrRrVbbsnbqQPbVsbPrqG
+jBBcmZBGmBSSJdmhBVbnnQrVbVqqVPbhbP
+ZfJBmLjfJZMcdZmJffGMtHtwNCvWwwwztMzg
+rgFgllfdpFlTHfTnfnNPNtPBBVtpzmVVPmmP
+bLSSbGhGWSWmLzztcQPCQC
+jvwhhwRwbwshjGhWwsRRTFflFJFzfddFrHzTrJ
+GSwgSdwfvdfvwgGwBLdJbjjpmFjSTRpqHmRrjptrqt
+NDMVMCsWQVCsQFjFTHjVLqjFrp
+PzWDDCNNlCWfbhZZLfBGwl
+clFLFpFJcVmmWWgWWcWTdwZqCZCZqDqDDSwvwrdHCZ
+GGLfGtbfMNbbLGtzjBNnsMjjZCwDvQZHrHQvDHHHHHHrrNHq
+BthbnfPGMstmJgRPpFRTLL
+VRcdVRPTgVTLVMwmggJBwblJFlmb
+CqDDQsjCCrnnnQQtDcrnGCssJZNvZbvNQmZwmZlbNbwFNwmF
+pstjcqrprsHrfDpnrCnHCzRhSMhMMMRVPLMhddfhzT
+QNDQThccDghdcLLgVsrVLVlMGM
+BbbWpppFFpnfnFbBBPRMTJMRsGlJGlJVLf
+wpnbmvbnSwSnmzHHzwwhQqTctNCcqdNqZvhQjj
+lwCLwLjzLhLHCvwjGCZJbQSHdBQdDdbDtdSQ
+pnzcTVsszpncgFdJpbtDBDttDSJS
+zTPcRrfzgzCCvGRhLLqW
+BgDbztvdDzLZZwMbDDcFHQQJPLWWPJQJHTHF
+jfpNqSrpCqNfNSpjCqSqshNFRQJcJWRRFssgWRHWWFWHQJ
+mrnNNgNfMZwmDtZw
+ZrrFPQsQPRLcvPJvhg
+HpmTjnBmDDDwqtVcHNvJhNVRhgvh
+tTpTGfnttqwnqQJzFdzfSdzSzr
+qVVZqfVNdnBZMNzNnPzfMqbzJvFSjSllvjBwrvrvFrlsrjJs
+LhHtDTmWmWmGDhGLWHghHLCwrwRjjsPJrSjFjFrFClvrww
+mDDgtcLcmtTWTTHhpWLDHhDNMqVnqfdqbZdQpqVbzZVPVb
+WGpVMtGZplgHVWMtZpZFHJjndvFdjddJhnjLHF
+DTrRcSSccfzcCPDCTnvJvjbrrhjNvqjqJL
+zczwPDTmfZZtgLwWlp
+sTtTpvMjpBdmTlhlBTdvsvdncmVcVVVVHzFqVnFfqzHzWV
+GGwQRZNCRgDgsDDbSbSgfGFFrHfVHVVWrHWWcVFF
+RZRPgbNSJDsTsplPLsvd
+GrGNGhpnPFFBfCQCMwrVlwTC
+PPWHmmSvSvdTfJvJVVfCfJ
+RjWDmDdDbjcSHmRRLRRHjdDBsFFbBngBzhqbBhpqBPgFFg
+TfdNjJjmShGcWvQNQqcNFN
+gsRZRMqbDpsHHnZnngMZFPlzQRPWvRtPwtRWzlPv
+brgMMgZCLsDpHGGjfGJVSCqddT
+BdSRjHScGMVjGdcScwLgqQqphNqNDqBBQW
+zzQClvtttrwqrwgCwp
+PQJTzvJJTtJQlvQftmfdmdmGRcSdcMSGdS
+PjPwvwlfGlGCGwppWBsWQVVQnpCQ
+FRSHzMJdrfRnpmpWmp
+TzJTMNNrHLJfTJccvjqwwgGLZLLc
+dCpjsGvcsLvszTrRRlRrDJ
+hPNqqpbhFlrDnPrRnz
+SBbphFNtLvvSfLfc
+zTFnnZzqrjFVnZTrtwMDptbpMwMMBDzb
+JGPCjWGgJjPWGJjNchmbBRpNNDsRsNBbbRBppD
+JWCggWSCmhCmvWHTQrTQfHjdVlQZll
+WWbrmZjbmjpbWSmcWHSbLddwvDggLFDhFrRlFFDw
+qPMVzTPQVfzvVzBQTMtRswwlDdhDghhsfLwdhs
+MMMPQBPJPzCVzvzQVtBJJMzCbmSZNWbSccHHmmZpWSZGZS
+BgmMgjlBMjHPssBnwphtFwhSVVmGGwFS
+rfCqQQrfvCQNRqCnCthFVSGSGtVS
+TrzLNvWfQvrWQZNWsnHsssBBcZBMsDdZ
+CtJCddDHDDPGHCdNVLPBdLDbbGFbwZSsSSZrfFFrGbGlsb
+gvjpnvhRphjmpmSfsTSnPZZrZfrZ
+ghRRRhQgWvmPWtHHtLdMtH
+qNgQgNgNQFVbqVQDMRZMDRBHHJHRFh
+jnTTPzWZCzrWzGRHMrhmBvJBSBBM
+jtCGWnCWPTsTzlctWPtqLbwqZggNwgLbwdVq
+DJgJDgFqCGlhFDGDCWhqCwRfpbcpbsgsVscRpwbwws
+SmLZQmMVvLbsbssNQsQN
+tHZMLZZZMVtmnMHWDHjWlGhFDqCl
+PZRmjlDBWRBWBQMdQQBDPRhfzSSTTnfFnfzFpVFjfSVFgS
+wwHCHLtLwnzNHVTZZV
+rJLtZtLZcCrvJwcbrGLvrcDQDhPldhGdmmPRQhhRBlPM
+zShzVhbqlbpbRNRscBNwCc
+DfmFWnfmnMFDdngdngvJFHgQQNwNsHHCQCwNTTzRcN
+FFFZMWWZZJMmJJMFFpztlPtSllLVphttGZ
+gWhGwmwQGhVwGzBMnDFmdmDDLbCnLn
+tRRHNHHlPHPfPltllNNNRsVPFrTrTbrMMTTDMdLFCrFdPP
+HvRvvHNpNvfqSshwqwVQZWhggwhw
+jDDRDVqNsRMMVFjFbtzpBlpllCBlhSLHSStH
+JJWZZTwWcmZCzQShHhzhhm
+wTrgvTwccvdcfvJvWJrvJTNzNMfGNNGjFRsjNDbfVzDs
+cVWPPThWctcFRdQpzLTzBL
+NNCqwNSrsDqNSSgLgffDCNpBdRvvdpmHRQvBdBqvdzBB
+CgbffsDJsSsNgbgJrlcGhGtjnWcJPncjWL
+RwwTGRjGlwWNgjgfQVNmjj
+HJPdLhLzhbtbdLPLbHHJLdcfBffBgrFQVZgzvgBfvrvvmr
+cmchnhtPqLSJJbdPLntlsDGCTWWDsDRwWWWTwS
+DDDBsPGPbwhDcDcj
+rgfNgCmHMvrrttvtfmNLgrLcQQJTJhcnjTQHcZlwlQHnwj
+wgfLmgFgWdBFzSVR
+RwsbssJjnbJwwsGPPdDLfTDLLLWvWNDGDpWD
+zVtHqzHHVcBQTdpSgvQDSpTS
+HHhFCdrrHchmrhcmwsjZwRwMJlshJJJZ
+BdQgtJMLBqshLfNhbccfFhffNc
+DnVWvvpvWvzrpwRWDbTvbTjTFGlfFSfNSFHGmFGNFmnPlmFS
+wDRDZzVWVjrRVjzrQgQdbgCZLCsCQtbd
+jQSgWjQmFFvHmjHWVVpZbGlbGlfGpbfGGWpf
+zBPtTqzPBcdwrzPJwqCztTNvCGpbGfDnfhZpNGGZGZbG
+MTzPtcrcwzTttdBJwPvFVHjMLFHQMgsSLHvs
+BHtjmmTtmDtHZjMMdNzCzCWcWZsZdsZs
+JRRJVPLwQJrVMPJLVVwChpRRhcdzcNzhzChNdW
+SrFwfGwGSnnGPlBMDtjbllggBn
+rsMDTrgsBNBgMgDBhfhDghrtcRWJttcmGRWLGQQLJRrqRL
+lnVVjvPbwpndvVwlVCjVwtLcsmLLqWWtttlsmGGcmm
+SsjVSCZbgTBTfNZH
+wlddvlldlBzqSmStdqmmngwgDCgrpMpgCngrMCfn
+jVLTHGRHjjvPGcDrfNMbnpngVbpf
+RJRTTRZJLRJQZcGGHLhHvTdmBFWFtWzqdWWQlFzqBFWt
+HDgZHpZSDpBQdRpHHRsDBNNzTvfTQqcqNNTqTqPQvl
+rnMFFMFJwmNgvmfTzcfq
+CWMtjCWMCCLWrWVWJwBbpgtRZSHbddZHBDDb
+hjLWPZJpZptwJghSfgHTMTgRMR
+lCcrblcnlzqDsvbfffTRSMnffjHTgj
+sqscDcblGDDpWPwFGwjLLp
+plQtRqRlGpPPPLZtmtpttRtJjHJvddLTHrLHJJjbdHvrrN
+gcMgTBWBCTczjnvNznnbgH
+FBhSwsWFWDhQZQqTTZllsT
+WsVttWDbvbtRjDVtDbDbJjrjFpCCcBrSCwrrjwww
+nzHqGNMfHqMMwJLLsNBrNcBS
+qgnHflgzHlqlZzhnzssfzbZtmVvmTQvQdTtbbDbTvv
+RtQCBbJDFhJtQtZtCbMnVnPVfGPpJVJWWmwJPG
+NsczRsrdrNrjlcSTGGnwmGmnmVPWwmVT
+SHcljRHzNHHjSHcrgNslcczgZtDgMDBCvQQbhDBCbFBCFCCF
+dRTFRJTRTgJzSSJmzJfN
+jLbQllLvvvrQlLQBrvQmFBGzCFtPSMmSGCtPPF
+QjsvDvqlvrQQvnsLjDWghTwZWcccFdRVpc
+bWnDbMJMFbhZSfngpfpd
+HjcrlvjRjrjlLqTqpwQgpfSQgghZgvgf
+THNTjClLHDCCpWmbtC
+NpBNsnFMLBcPMZccbQGblWRgGZmbRWdW
+CqrJTHCvDfrfwwJHRBvRGvgQmvmlWtlR
+rHzJJJDDwJCqjHTwBLccMpFhshnSSsMz
+bqVqqrDMpLFbLpJJQDMjbpZndwsvwHHswvnvnnZslG
+hgfRghhBWgfzBgZvncvcGvWrnZsG
+fTSSSBtTzhPththRrrCBzVLqMMJQjVJJCLjFjjqjJq
+pQlCJQjVvVGGnjNqFbFP
+wTqtmSmTBhstmstTmWRSdLdfPdNGnhGhdPNnNnrN
+mzTZBwWTcSTsTmZRRmzTsVMMVMQMDJgVqqMgcJlVDl
+vVwCqdCDvMrlDJCqrDMrPdTFWwZNbRcbmZWQbRQZWZcQWm
+fGSfhfjHGBlhSpRmpZFZNbQWjj
+ntGlgSSGgStVqdMCDCJnqd
+TlTRCrhCpmnCRtMRRWbvMBfwBB
+DVdQcsccdczbtQBWvmQBBW
+PgHPNcmcqqTphlHTCGrT
+GVLCBmdLVtlrmqGCqrTCGnjGSfwzNfPzfNNGzSSw
+rMDcWMJsDWRvRcsZPwpJpSzjwwfFjfjJ
+hcsscQQsDcWbHbmLgTbVgTmlrbgq
+VwJndPThQQjdvbrb
+BHlzFFjlZGBBlZBDFSmllfGggLNbNvggtCgNrLQLbfvbfg
+SHSHHlZSGZSDHGzHssGmnjhjphJPPpPwnsJRwPMM
+QFFGpfGtwgtjwvpwpGGjjBHgqzNNllHRlRllNdBRJl
+SWVDWVrDhnWhnqVnWPrhcSldBJPsRMMdPHsRdJHRMMBP
+SWZZcmnnZnSCLZDZftFFCvbfTTqTCTQF
+TvZBTFZpshPggBNN
+bbctWQDjcnwtwDDDllQzLfgsPzqgrsTPLshWfP
+bwRbQRnmDwtbTjmwRJQRQVZHpCpHVdvpMHZZMHZJvd
+CfqzMCGvGqNrCFFNwcMBbnnbbtBbDStw
+sJjsTjvVjLVlLLbtHSnSSwQsDBSH
+dJlvLVgJTRVPWWjjggCzhNGzzGZdhqrdmqrq
+zGSHWGjzpRsWVfsNwZ
+BmPCLzPlJBBvQmLFQrwwrVtfqtqZtsvwfR
+hLLzlmmBPFFLJMlmgDTMgdSGbDgGHbSp
+ppngVjZwNZwwVJjjnnVVJJJpLrsgmsmrbctsLcLmscDggDsL
+vHvRzRPvQPPRqPTlffRTrssbtqmmtbcMcNrDrrtD
+CHWdWzWQzdChNVZjZZwB
+LjVFhwjbFggMdVggTVMNRWRGWqQWtRNWGlQW
+DCzCpJppzJJDScFBzvBGnRWGWrNRQNNWGtNGqB
+vFJSzDSszzzccSZHzDDJmvSJhVwLjfVTPZLfwLgjThLZwhVh
+FMSSNScRlSGzfqWbqqcpWBhpmW
+TrPrnQNnJwtQpmmpmbbL
+vwvCsJZZnnwVnVHsfNjDRgSjRzgRjZjN
+CRhsghlqlvjhPslQdrMndMTWdPnTMJ
+tcDNFDpDSDwDtHrSDwDtFmtpJzWTnzQJpzQGnGWQMWnnTGBd
+ZfFSmSfwcwcScZHtVRhRCqLqCfrVrrfg
+vHPsBzvRvhCzbwbnjHLVmVbW
+ggdlpZNdZdflWTGpVMjgVbqjVmngnVbr
+lNpfllFGpZTtclDZzSWQFCWWzChPzQhS
+ddbJQGsgJcQccCjjTC
+DDflHqNNNjCCPNbT
+LFpLzfzqHzLbLvtndJhs
+mHtbGdwzmtHZrtrHtHGwrmtcFgBFRsBFcdglRsfsdgJBNN
+WvpSVjCCTCSPVDqTVjLqJwWRcWsNlgBcBlfWBRfl
+qDwjvqjVTDDLSPpnjqVnzbhbZbrGMmHzbMHHhh
+cMrrVsdtCdVtwqdHgLjPLFLfcfZZJB
+zGSlGGvpDWWvbSSNTggZPPTTJLZPjPzJ
+bNQDWbjlGSGNnWGblbQDQCmdqhsMtrsVnCrtnwdnCt
+WZSnCCMMdMMMSJMSVZmmFqVjqjVwVjjc
+zvzTlQQQQTNGbmQTjqBjcwwwGgBHGwqB
+mthbtmlPhTrNzNhhPLzlPzWfWPJdRCWspPWSSRsWSnJp
+nmqsjNFqNLcVlPNvRdvPPv
+MrggHrMpbtTpgpDptlQRJJldVRPBsDQvvV
+grgrTzfTGSFGsGSCLc
+hjdjCfQCLdQcWMfDDQhLsLCjqvVqzzZZprBFbzVdvVnqnBbd
+NTglmJGJRnRZVrVvFr
+gPGgPJSTPJtHncnjWDhDMDhP
+ZWWqBqqmgFFDMTTWDMwwcW
+ddGPpJQPprRSCrQzJPJGjHDvssMTDZDwcHhMsHsMHS
+zNRGrCRRCjPpdGQJNglqntnbtgNBZtFqtt
+pslQSspQrqHfgMRl
+tJBTjsTLGMBGMFMg
+tDwnhZdnLdZDwczzcPvsVvVW
+nZnMSDnGtnzmzWZZcMmgMcHwFFVHhHwbHsVrwQhVhF
+dlTqNqfTjdJflCppCQQRHVwFRJrvJsFVQs
+LNTqBLPprpLLzWtSnMZBMDGm
+PBjlPvvcJlJzwqjnnjLnwm
+dMfdpVfVhGVfVpVTtWWbzwngLMLwMRCmgmLMmsww
+SWppdTrprThhrGVztcrllrQJZNlBZlrNZB
+TTrNcjGNWDdDPDpPjDPNrbmFPfQSFmfSMCmCfSmSSR
+sshhqshzBVnzHgwCMbCwcfmRFmRMbm
+gHVVnBzJcBgVhtZZtgJhpGrGNpvDpddvprNGrlTJ
