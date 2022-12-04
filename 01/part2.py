@@ -1,7 +1,6 @@
 with open('input.txt') as f:
     lines = f.readlines()
     elves = []
-    max = 0
     l_total = 0
     for line in lines:
         if line == "\n":
