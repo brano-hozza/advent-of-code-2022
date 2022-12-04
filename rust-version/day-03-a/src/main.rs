@@ -1,3 +1,4 @@
+use std::collections::HashSet;
 use std::fs::File;
 use std::io::{self, BufRead};
 use std::path::Path;
@@ -22,7 +23,13 @@ fn main() {
                 let length = value.len();
                 let first_half = &value[0..(length / 2)];
                 let second_half = &value[(length / 2)..length];
-                let unique_first: Vec<char> = first_half.chars().collect();
+                // get uniques from first half
+                let unique_first: Vec<char> = first_half
+                    .chars()
+                    .collect::<HashSet<char>>()
+                    .into_iter()
+                    .collect();
+
                 let mut char = unique_first[0];
                 for c in second_half.chars() {
                     if unique_first.contains(&c) {
