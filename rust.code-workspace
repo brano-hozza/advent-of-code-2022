@@ -55,6 +55,14 @@
     {
       "name": "Day 7, part B",
       "path": "day-07-b"
+    },
+    {
+      "name": "Day 8, part A",
+      "path": "day-08-a"
+    },
+    {
+      "name": "Day 8, part B",
+      "path": "day-08-b"
     }
   ]
 }
